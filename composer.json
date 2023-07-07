@@ -1,5 +1,5 @@
 {
-    "name": "rhyslees/nova-spark-overview",
+    "name": "mcalverley10/nova-spark-overview",
     "description": "Interact with your Stripe subscriptions directly inside Nova.",
     "keywords": [
         "laravel",
@@ -8,7 +8,7 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Rhys Lees",
+            "name": "Mike Calverley",
             "email": "43909932+RhysLees@users.noreply.github.com"
         },
         {
